@@ -1,0 +1,3 @@
+Za pokretanje aplikacije se samo pokrene rbistrici22.ipynb i prolazi se kroz svaku čeliju. Sve datoteke trebaju biti u istom direktoriju kao što je .ipynb. Za svaki slučaj instalirati potrebne pakete koristeći pip install pandas numpy matplotlib sqlalchemy flask.
+Poveznica na github:
+https://github.com/rbistrici22/paprbistrici22/
